@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.newbee.floatwindowlibrary.view.circlemenu.view.CircleItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/iv_circle_menu_item"
+        android:layout_width="90px"
+        android:layout_height="90px"
+        android:padding="5px"
+        android:scaleType="fitCenter"
+        android:background="?android:attr/selectableItemBackground" />
+
+
+
+
+
+</com.newbee.floatwindowlibrary.view.circlemenu.view.CircleItemView>

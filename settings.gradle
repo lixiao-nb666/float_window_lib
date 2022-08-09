@@ -1,0 +1,3 @@
+rootProject.name='floatwindow'
+include ':app'
+include ':floatwindowlibrary'

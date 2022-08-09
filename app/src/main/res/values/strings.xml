@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">联合创新悬浮窗模型</string>
+    <string name="auto_play_hdmi">自动播放</string>
+    <string name="play_hdmi_loading">正在打开HDMI-IN......</string>
+    <string name="play_hdmi_error">HDMI-IN信号异常！</string>
+    <string name="common_ok">确定</string>
+    <string name="common_confirm">确认</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_exit">退出</string>
+</resources>
